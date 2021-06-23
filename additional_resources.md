@@ -1,4 +1,4 @@
-**List Of REST API frameworks for Go**
+**List of web frameworks for Go**
 
 1. Gorilla Mux (https://www.gorillatoolkit.org/)
 
